@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "sabith",
+      "email": "admin123@gmail.com",
+      "password": "admin456",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "name": "surya",
+      "email": "teacher@gmail.com",
+      "password": "teacher1",
+      "role": "teacher",
+      "status": "blocked"
+    },
+    {
+      "id": "3",
+      "name": "Teacher 2",
+      "email": "teacher2@gmail.com",
+      "password": "teacher2",
+      "role": "teacher",
+      "status": "active"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "email": "alice@student.com",
+      "phone": "9876543210",
+      "course": "React",
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "email": "bob@student.com",
+      "phone": "9876543211",
+      "course": "Node.js",
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "name": "Charlie Brown",
+      "email": "charlie@student.com",
+      "phone": "9876543212",
+      "course": "Python",
+      "status": "active"
+    },
+    {
+      "id": "4",
+      "name": "Diana Prince",
+      "email": "diana@student.com",
+      "phone": "9876543213",
+      "course": "React",
+      "status": "active"
+    },
+    {
+      "id": "5",
+      "name": "Eve Adams",
+      "email": "eve@student.com",
+      "phone": "9876543214",
+      "course": "Java",
+      "status": "active"
+    },
+    {
+      "id": "6",
+      "name": "Frank Miller",
+      "email": "frank@student.com",
+      "phone": "9876543215",
+      "course": "Python",
+      "status": "active"
+    },
+    {
+      "id": "7",
+      "name": "Grace Lee",
+      "email": "grace@student.com",
+      "phone": "9876543216",
+      "course": "Node.js",
+      "status": "active"
+    },
+    {
+      "id": "8",
+      "name": "Suhail",
+      "email": "suhail123@gmail.com",
+      "phone": "8075815093",
+      "course": "bcom",
+      "status": "active"
+    },
+    {
+      "id": "9",
+      "name": "Jiyo",
+      "email": "jiyo@gmail.com",
+      "phone": "8075815093",
+      "course": "JavaScript",
+      "status": "active"
+    },
+    {
+      "id": "10",
+      "name": "Aravind",
+      "email": "aravind@gmail.com",
+      "phone": "8075854378",
+      "course": "Node.js",
+      "status": "active"
+    },
+    {
+      "id": "11",
+      "name": "suryasevan",
+      "email": "surya@123gmail.com",
+      "phone": "9875069420",
+      "course": "JavaScript",
+      "status": "active"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "name": "React"
+    },
+    {
+      "id": "2",
+      "name": "Node.js"
+    },
+    {
+      "id": "3",
+      "name": "Python"
+    },
+    {
+      "id": "4",
+      "name": "Java"
+    },
+    {
+      "id": "5",
+      "name": "JavaScript"
+    },
+    {
+      "id": "6",
+      "name": "DevOps"
+    },
+    {
+      "id": "7",
+      "name": "bcom"
+    },
+    {
+      "id": "8",
+      "name": "BCA"
+    },
+    {
+      "id": "9",
+      "name": "BBA"
+    },
+    {
+      "id": "10",
+      "name": "MBA"
+    },
+    {
+      "id": "11",
+      "name": "MCA"
+    }
+  ]
+}
